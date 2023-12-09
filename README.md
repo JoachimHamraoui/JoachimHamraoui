@@ -5,8 +5,8 @@
 - 🫶 I'm passionate about all things Web Development.
 - 😆 I speak French, Dutch & English.
 - ✅ I value great design.
-- 🌱 I'm learning React Native
-- ⛩️ Fan of all things Japan
+- 🌱 I'm learning React Native.
+- ⛩️ Fan of all things Japan.
 
 ## Connect
 - ✅ LinkedIn: [Joachim Hamraoui](https://www.linkedin.com/in/joachim-hamraoui-6950b6173/)
