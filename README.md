@@ -1,6 +1,6 @@
 ### Hi there, I'm @JoachimHamraoui 👋
 
-# About Me
+# 👨🏽‍💻 About Me
 
 - 🫶 I'm passionate about all things Web Development.
 - 😆 I speak French, Dutch & English.
