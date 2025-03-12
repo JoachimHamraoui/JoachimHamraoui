@@ -6,8 +6,6 @@
 - 😆 I speak French, Dutch & English.
 - ✅ I value great design.
 - 🌱 I'm learning React Native.
-- ⛩️ Fan of all things Japan.
-
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jojohamraoui_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joachim-hamraoui-6950b6173/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jojohamraoui_) 
