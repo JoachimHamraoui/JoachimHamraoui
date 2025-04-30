@@ -4,7 +4,7 @@
 
 - 🔁 Currently revisiting and refining my Fullstack Development skills
 - 🎓 Bachelor's degree in Multimedia & Creative Technologies
-- 🎮 Passionate about reading, gaming, and turning ideas into reality
+- 🎨 I value clean, thoughtful, and impactful design
 - 🌍 Fluent in Dutch, English, and French
 
 # 🌐 Socials
